@@ -1,6 +1,5 @@
+Partners: Ali Farahbakhsh, Jay Gao
 
+3. Navigation mode navigates to the given url then runs a performance audit. On the other hand snapshot takes a snapshot of the currently loaded state of the app and audits that. Navigation analyzes how the app performs on initial load where as snapshot analyzes how the current state of the app is.
 
-
-
-
-
+4. Based on the lighthouse results, the page doesn't have a `<meta name="viewport">` tag. Also, images were larger than their displayed size and the `<html>` element doesn't have a `[lang]` attribute. These are some improvements that could be done to the shop website improve the site's lighthouse score.
